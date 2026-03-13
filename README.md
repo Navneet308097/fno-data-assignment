@@ -143,4 +143,7 @@ assignment.ipynb
 This project demonstrates how a relational database can be designed and optimized for analyzing large-scale financial trading datasets.
 By applying normalization, SQL analytics, and query optimization techniques, the system supports efficient financial data analysis and can scale to handle millions of trading records.
 
-## Project Structure
+## Dataset
+The dataset used in this project can be downloaded from Kaggle:
+https://www.kaggle.com/datasets/sunnysai12345/nse-future-and-options-dataset-3m
+Due to GitHub file size limitations, the dataset is not uploaded to this repository.
